@@ -1,0 +1,1 @@
+<img src="https://c.tenor.com/WiwzBDVJYZMAAAAC/regular-show-rigby.gif"/>
