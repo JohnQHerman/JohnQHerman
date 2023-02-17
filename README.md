@@ -4,8 +4,7 @@ I'm **John Q. Herman**, programming student and aspiring software engineer.
 
 ## Languages
 
-- **C#/C++ (preferred)**
-- Python
+- C++
 - Rust
-- Javascript
-- Bash
+- Python
+- TypeScript
